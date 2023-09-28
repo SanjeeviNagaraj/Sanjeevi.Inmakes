@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="6" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="0.016312">
+    <testcase classname="To Validate the login functionality of facebook" name="To validate with valid username and invalid password" time="0.011453">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given To launch the chrome browser and maximizewindow.......................undefined
+When To launch the url of the facebook apllication..........................undefined
+And To pass valid username in email field...................................undefined
+And To pass invalid password in password field..............................undefined
+And To click the login button...............................................undefined
+And To Check Wheather navigate to the home page or not......................undefined
+Then To close the browser...................................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="To Validate the login functionality of facebook" name="To validate the positive and negative combination of login functionality" time="0.000774">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given To launch the chrome browser and maximizewindow.......................undefined
+Given User has to launch the browser and maximize the window................undefined
+When User has to hit the facebook url.......................................undefined
+And User has to pass the data "sanjeevi@gmail.com"in email field............undefined
+And User has to pass the data "Inmakes"in password field....................undefined
+And User has to click login button..........................................undefined
+Then User has to close the browser..........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="To Validate the login functionality of facebook" name="To validate the positive and negative combination of login functionality 2" time="0.000981">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given To launch the chrome browser and maximizewindow.......................undefined
+Given User has to launch the browser and maximize the window................undefined
+When User has to hit the facebook url.......................................undefined
+And User has to pass the data "sanju@gmail.com"in email field...............undefined
+And User has to pass the data "passworddes"in password field................undefined
+And User has to click login button..........................................undefined
+Then User has to close the browser..........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="To Validate the login functionality of facebook" name="To validate the positive and negative combination of login functionality 3" time="0.00094">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given To launch the chrome browser and maximizewindow.......................undefined
+Given User has to launch the browser and maximize the window................undefined
+When User has to hit the facebook url.......................................undefined
+And User has to pass the data "datada@gmail.com"in email field..............undefined
+And User has to pass the data "Inmakesda"in password field..................undefined
+And User has to click login button..........................................undefined
+Then User has to close the browser..........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="To Validate the login functionality of facebook" name="To validate the positive and negative combination of login functionality 4" time="0.001036">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given To launch the chrome browser and maximizewindow.......................undefined
+Given User has to launch the browser and maximize the window................undefined
+When User has to hit the facebook url.......................................undefined
+And User has to pass the data "emaild@gmail.com"in email field..............undefined
+And User has to pass the data "Gilo"in password field.......................undefined
+And User has to click login button..........................................undefined
+Then User has to close the browser..........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="To Validate the login functionality of facebook" name="To validate the positive and negative combination of login functionality 5" time="0.001128">
+        <failure message="The scenario has pending or undefined step(s)"><![CDATA[Given To launch the chrome browser and maximizewindow.......................undefined
+Given User has to launch the browser and maximize the window................undefined
+When User has to hit the facebook url.......................................undefined
+And User has to pass the data "sanjei@gmail.com"in email field..............undefined
+And User has to pass the data "Hello"in password field......................undefined
+And User has to click login button..........................................undefined
+Then User has to close the browser..........................................undefined
+]]></failure>
+    </testcase>
+</testsuite>
